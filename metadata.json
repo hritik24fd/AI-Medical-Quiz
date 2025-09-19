@@ -1,0 +1,5 @@
+{
+  "name": "MediQuiz AI",
+  "description": "An intelligent medical quiz application powered by Gemini. Select a drug topic, answer AI-generated questions, and receive a personalized performance summary highlighting your strengths and weaknesses.",
+  "requestFramePermissions": []
+}
